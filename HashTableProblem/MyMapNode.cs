@@ -92,10 +92,10 @@ namespace HashTableProblem
 
             protected int GetArrayPosition(K key)
             {
-                //Console.WriteLine("position given by gethashcode method " + key.GetHashCode());
+                Console.WriteLine("position given by gethashcode method " + key.GetHashCode());
 
                 int position = key.GetHashCode() % size;
-                //  Console.WriteLine("position given by gethashcode method "+position);
+                Console.WriteLine("position given by gethashcode method "+position);
                 return Math.Abs(position);
             }
 
@@ -119,5 +119,5 @@ namespace HashTableProblem
             public v Value { get; set; }
 
         }
-}
+ }
 
