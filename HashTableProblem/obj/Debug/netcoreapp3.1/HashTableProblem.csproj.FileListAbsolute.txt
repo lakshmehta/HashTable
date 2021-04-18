@@ -1,0 +1,13 @@
+F:\HashTableProblem\HashTableProblem\bin\Debug\netcoreapp3.1\HashTableProblem.exe
+F:\HashTableProblem\HashTableProblem\bin\Debug\netcoreapp3.1\HashTableProblem.deps.json
+F:\HashTableProblem\HashTableProblem\bin\Debug\netcoreapp3.1\HashTableProblem.runtimeconfig.json
+F:\HashTableProblem\HashTableProblem\bin\Debug\netcoreapp3.1\HashTableProblem.runtimeconfig.dev.json
+F:\HashTableProblem\HashTableProblem\bin\Debug\netcoreapp3.1\HashTableProblem.dll
+F:\HashTableProblem\HashTableProblem\bin\Debug\netcoreapp3.1\HashTableProblem.pdb
+F:\HashTableProblem\HashTableProblem\obj\Debug\netcoreapp3.1\HashTableProblem.csprojAssemblyReference.cache
+F:\HashTableProblem\HashTableProblem\obj\Debug\netcoreapp3.1\HashTableProblem.AssemblyInfoInputs.cache
+F:\HashTableProblem\HashTableProblem\obj\Debug\netcoreapp3.1\HashTableProblem.AssemblyInfo.cs
+F:\HashTableProblem\HashTableProblem\obj\Debug\netcoreapp3.1\HashTableProblem.csproj.CoreCompileInputs.cache
+F:\HashTableProblem\HashTableProblem\obj\Debug\netcoreapp3.1\HashTableProblem.dll
+F:\HashTableProblem\HashTableProblem\obj\Debug\netcoreapp3.1\HashTableProblem.pdb
+F:\HashTableProblem\HashTableProblem\obj\Debug\netcoreapp3.1\HashTableProblem.genruntimeconfig.cache
